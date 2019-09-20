@@ -57,6 +57,7 @@ public class MinionTest {
 
 		stuart.setMaster("Napoleon");
 		assertEquals("Napoleon", stuart.getMaster());
+		toString();
 	}
 
 }
